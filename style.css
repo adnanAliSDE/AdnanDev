@@ -8,6 +8,7 @@ body {
   display: grid;
   place-items: center;
   font-family: 'Lexend Deca', sans-serif;
+  background-color:hsl(0, 0%, 95%);
 }
 .attribution {
     font-size: 11px; text-align: center; 
